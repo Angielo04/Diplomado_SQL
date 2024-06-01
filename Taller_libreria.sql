@@ -1,4 +1,5 @@
 --Parte 1: Creación de la Base de Datos y Esquemas
+-- vALIDACION CAMBIOS 
 
 -- 1. CREACION DE LA BASE DE DATOS
 
